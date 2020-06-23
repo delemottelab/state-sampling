@@ -1,3 +1,11 @@
+*.iml
+.iml
+.simu
+.idea
+.idea/*
+output
+analys/output
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
